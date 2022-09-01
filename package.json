@@ -1,0 +1,32 @@
+{
+  "name": "manjaro-bynawers-theme",
+  "displayName": "Manjaro Bynawers Theme Dark",
+  "description": "simple theme suitable for manjaro users",
+  "version": "0.0.1",
+  "publisher": "Bynawers",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bynawers/vscode-manjaro-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "bynawers",
+    "manjaro"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bynawers",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bynawers-color-theme.json"
+      }
+    ]
+  }
+}
