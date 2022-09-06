@@ -8,3 +8,5 @@ Simple vscode dark theme, match with manjaro colors.
 Based on One Dark Pro.
 
 ## SCREENSHOT
+
+...
